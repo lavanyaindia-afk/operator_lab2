@@ -1,5 +1,5 @@
 # create variable for name
-name = "Oh Dear Lord"
+name = "Welcome to the lab, Lavanya!"
 
 # create a greet function
 def greet(name):
