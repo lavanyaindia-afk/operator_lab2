@@ -1,0 +1,4 @@
+id,name,role,skills,is_active
+101,Alice Johnson,Lead Engineer,"['Python', 'AWS', 'Docker']",True
+102,Marcus Chen,UX Designer,"['Figma', 'CSS', 'React']",True
+103,Sarah Smith,Data Analyst,"['SQL', 'Tableau', 'R']",False
