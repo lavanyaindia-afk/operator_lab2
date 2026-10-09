@@ -1,0 +1,14 @@
+name: "Quintessential Quips"
+job_title: "Babble Buddy"
+badges: {
+    short_name: "chatter_level"
+    badge_id: 200
+}
+badges: {
+    short_name: "noise"
+    badge_id: 99
+}
+badges: {
+    short_name: "sensibility"
+    badge_id: 111
+}
